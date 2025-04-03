@@ -10,7 +10,8 @@ A fun and interactive **Snake & Ladder** game built with **HTML, CSS, and JavaSc
 - 🔥 Smooth animations and transitions  
 
 ## 📸 Screenshots  
-![Game Board](assets/screenshot.png)  
+![snake-ladder-game1](https://github.com/user-attachments/assets/98580c73-f8de-486b-aea8-5b253e856bc6)
+![snake-ladder-game2](https://github.com/user-attachments/assets/c8b6519e-3fbb-4e39-bb9b-e42b48c8a1c4)
 
 ## 🛠️ Technologies Used  
 - **HTML** – Structure  
