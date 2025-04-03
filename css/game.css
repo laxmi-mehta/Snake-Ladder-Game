@@ -81,7 +81,6 @@ img {
 }
 
 @media (max-width: 1250px) {
-  /* ✅ Adjust the dice container */
   #diceCont {
     display: flex;
     flex-direction: column;
@@ -104,7 +103,7 @@ img {
   }
 }
 
-/* ✅ Medium Screens (Tablets & Laptops) */
+
 @media (max-width: 1024px) {
   .cont {
     width: 500px;
@@ -139,7 +138,7 @@ img {
   }
 }
 
-/* ✅ Small Screens (Mobile) */
+
 @media (max-width: 768px) {
   .cont {
     width: 350px;
